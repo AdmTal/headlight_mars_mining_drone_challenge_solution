@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+
+SERVER_HOST=localhost \
+SERVER_PORT=5000 \
+RATE_LIMIT=10 \
+GRID_MAX_X=100 \
+GRID_MAX_Y=100 \
+SCAN_DISTANCE_X=5 \
+SCAN_DISTANCE_Y=5 \
+MAX_CLAIMS=3 \
+SHOW_IMAGE=1 \
+bash start.sh
