@@ -6,6 +6,8 @@ This repo contains my solution to the 2018 NYC Headlight Mars Mining Drone Tourn
 
 My original submission is preserved in the .zip file.  The other files represent a few more hours of tinkering past the submission deadline.
 
+[Here is a Link to original Tournament description](https://www.headlightlabs.com/tournament/portfolio/mars-mining-tournament)
+
 Cheers,
 
 Adam
